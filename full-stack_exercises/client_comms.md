@@ -1,0 +1,3 @@
+## Client Comms
+
+First I familiarized myself with the api. Noticed that the api only returned one user card so I decided to create a loop so I can get all 25 user cards. For the client side, I knew that I would be creating rows for each user, only showing specific data. The information needed came in an array, so I looped through the array and created a new row for the table and inserted the data of the user. 
