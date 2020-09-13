@@ -1,0 +1,22 @@
+{
+  "name": "als",
+  "version": "1.0.0",
+  "description": "",
+  "main": "full-stack-exercises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CieloRaymundo/ALS.git"
+  },
+  "author": "Cielo Raymundo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CieloRaymundo/ALS/issues"
+  },
+  "homepage": "https://github.com/CieloRaymundo/ALS#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
